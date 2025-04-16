@@ -1,0 +1,233 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:17:14] plugins = ""  (string)
+[13:17:14] 
+[13:17:14] Server Plugins
+[13:17:14] --------------
+[13:17:14]  Loaded 0 plugins.
+
+[13:17:14] 
+[13:17:14] Filterscripts
+[13:17:14] ---------------
+[13:17:14]   Loaded 0 filterscripts.
+
+[13:17:14] Script[gamemodes/new.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[13:17:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:17:46] plugins = ""  (string)
+[13:17:46] 
+[13:17:46] Server Plugins
+[13:17:46] --------------
+[13:17:46]  Loaded 0 plugins.
+
+[13:17:46] 
+[13:17:46] Filterscripts
+[13:17:46] ---------------
+[13:17:46]   Loaded 0 filterscripts.
+
+[13:17:47] 
+----------------------------------
+[13:17:47]  Blank Gamemode by your name here
+[13:17:47] ----------------------------------
+
+[13:17:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:18:21] plugins = ""  (string)
+[13:18:21] 
+[13:18:21] Server Plugins
+[13:18:21] --------------
+[13:18:21]  Loaded 0 plugins.
+
+[13:18:21] 
+[13:18:21] Filterscripts
+[13:18:21] ---------------
+[13:18:21]   Loaded 0 filterscripts.
+
+[13:18:21] 
+----------------------------------
+[13:18:21]  MY PROJECT STARTED
+[13:18:21] ----------------------------------
+
+[13:18:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:20:58] plugins = ""  (string)
+[13:20:58] 
+[13:20:58] Server Plugins
+[13:20:58] --------------
+[13:20:58]  Loaded 0 plugins.
+
+[13:20:58] 
+[13:20:58] Filterscripts
+[13:20:58] ---------------
+[13:20:58]   Loaded 0 filterscripts.
+
+[13:20:58] 
+----------------------------------
+[13:20:58]  MY PROJECT STARTED
+[13:20:58] ----------------------------------
+
+[13:20:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:21:53] plugins = ""  (string)
+[13:21:53] 
+[13:21:53] Server Plugins
+[13:21:53] --------------
+[13:21:53]  Loaded 0 plugins.
+
+[13:21:53] 
+[13:21:53] Filterscripts
+[13:21:53] ---------------
+[13:21:53]   Loaded 0 filterscripts.
+
+[13:21:53] 
+----------------------------------
+[13:21:53]  MY PROJECT STARTED
+[13:21:53] ----------------------------------
+
+[13:21:53] Number of vehicle models: 0
+[13:22:18] [connection] incoming connection: 127.0.0.1:52658 id: 0
+[13:22:28] [connection] incoming connection: 127.0.0.1:62665 id: 0
+[13:22:29] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:55:25] plugins = ""  (string)
+[13:55:25] 
+[13:55:25] Server Plugins
+[13:55:25] --------------
+[13:55:25]  Loaded 0 plugins.
+
+[13:55:25] 
+[13:55:25] Filterscripts
+[13:55:25] ---------------
+[13:55:25]   Loaded 0 filterscripts.
+
+[13:55:25] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:55:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:55:42] 
+[13:55:42] Server Plugins
+[13:55:42] --------------
+[13:55:42]  Loading plugin: mysql
+[13:55:43]  >> plugin.mysql: R41-4 successfully loaded.
+[13:55:43]   Loaded.
+[13:55:43]  Loaded 1 plugins.
+
+[13:55:43] 
+[13:55:43] Filterscripts
+[13:55:43] ---------------
+[13:55:43]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:56:27] 
+[13:56:27] Server Plugins
+[13:56:27] --------------
+[13:56:27]  Loading plugin: mysql
+[13:56:27]  >> plugin.mysql: R41-4 successfully loaded.
+[13:56:27]   Loaded.
+[13:56:27]  Loaded 1 plugins.
+
+[13:56:27] 
+[13:56:27] Filterscripts
+[13:56:27] ---------------
+[13:56:27]   Loaded 0 filterscripts.
+
+[13:56:35] [MySQL]: Подключение к базе данных сервера успешно установлено.
+[13:56:35] 
+----------------------------------
+[13:56:35]  MY PROJECT STARTED
+[13:56:35] ----------------------------------
+
+[13:56:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:57:25] 
+[13:57:25] Server Plugins
+[13:57:25] --------------
+[13:57:25]  Loading plugin: mysql
+[13:57:25]  >> plugin.mysql: R41-4 successfully loaded.
+[13:57:25]   Loaded.
+[13:57:25]  Loaded 1 plugins.
+
+[13:57:25] 
+[13:57:25] Filterscripts
+[13:57:25] ---------------
+[13:57:25]   Loaded 0 filterscripts.
+
+[13:57:33] [MySQL]: Подключение к базе данных сервера успешно установлено.
+[13:57:33] 
+----------------------------------
+[13:57:33]  MY PROJECT STARTED
+[13:57:33] ----------------------------------
+
+[13:57:33] Number of vehicle models: 0
+[13:57:38] [connection] incoming connection: 127.0.0.1:57818 id: 0
+[13:57:38] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
