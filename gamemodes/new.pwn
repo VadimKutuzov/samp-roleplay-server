@@ -12,6 +12,8 @@
 #define SPD ShowPlayerDialog
 
 
+
+
 // ==================== [ ПЕРЕМЕННЫЕ ] =========================================
 enum player_info
 {
@@ -26,6 +28,13 @@ enum player_info
 new pInfo[MAX_PLAYERS][player_info];
 new MySQL:dbHandle;
 new query[256];
+
+enum 
+{
+	DLG_NONE, // 0
+	DLG_SYS_REG_PASS,
+	DLG_SYS_REG_GENDER,
+}
 
 
 main()
@@ -230,6 +239,51 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
+	switch(dialogid)
+	{
+		case DLG_SYS_REG_PASS:
+		{
+			if(!response) return Kick(playerid);
+			if(response)
+			{
+				if(strlen(inputtext) < 8 || strlen(inputtext) > 32)
+				{
+					SCM(playerid, COLOR_RED, "Пароль должен быть от 8-ми до 32-ух символов!");
+					return ShowRegistration(playerid);
+				}
+				for(new i = 0; i < strlen(inputtext); i++)
+				{
+					switch(inputtext[i])
+					{
+						case 'a'..'z', 'A'..'Z', '0'..'9': continue;
+						default:
+						{
+							SCM(playerid, COLOR_RED, "Пароль должен состоять только из цифр и букв латинского алфавита.");
+							return ShowRegistration(playerid);
+						}
+					}
+				}
+			}
+			strins(pInfo[playerid][pPassword], inputtext, 0);
+			SPD(playerid, DLG_SYS_REG_GENDER, DIALOG_STYLE_MSGBOX, "{ffffff}Регистрация - Выбор пола", "{ffffff}Выберите пол вашего персонажа", "Мужской", "Женский");
+		}
+		
+		case DLG_SYS_REG_GENDER:
+		{
+			if(response)
+			{
+				pInfo[playerid][pGender] = 1;
+				pInfo[playerid][pSkin] = 78;
+			}
+			else
+			{
+                pInfo[playerid][pGender] = 2;
+				pInfo[playerid][pSkin] = 77;
+			}
+			format(query, sizeof(query), "INSERT INTO `users` (`name`, `password`, `gender`, `skin`) VALUES ('%s', '%s', '%d', '%d')", pInfo[playerid][pName], pInfo[playerid][pPassword], pInfo[playerid][pGender], pInfo[playerid][pSkin]);
+			mysql_tquery(dbHandle, query);
+		}
+	}
 	return 1;
 }
 
@@ -252,7 +306,7 @@ public CheckAccountInMySQL(playerid)
 {
 	if(cache_num_rows() == 0)
 	{
-		SCM(playerid, COLOR_RED, "Вы не зарегистрированы!");
+        ShowRegistration(playerid);
 	}
 	else
 	{
@@ -261,6 +315,18 @@ public CheckAccountInMySQL(playerid)
 	return 1;
 }
 
+stock ShowRegistration(playerid)
+{
+	new str_1[320];
+ 	format(str_1, sizeof(str_1),
+	 	"{ffffff}Добро пожаловать на {00c900}Project RolePlay{ffffff}, ваш никнейм {ffaa00}%s[%d] {ff0000}не зарегистрирован.\n\
+		 {ffffff}Для регистрации на сервере придумайте пароль.\n\
+		 \t- Пароль должен содержать от 8-ми до 32-ух символов.\n\
+ 		 \t- Пароль должен состоять только из цифр и букв латинского алфавита.",
+	 pInfo[playerid][pName], playerid);
+	SPD(playerid, DLG_SYS_REG_PASS, DIALOG_STYLE_INPUT, "Ввод пароля", str_1, "Далее", "Выход");
+	return 1;
+}
 
 
 
