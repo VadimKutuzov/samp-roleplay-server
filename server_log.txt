@@ -231,3 +231,98 @@ v0.3.7-R3, (C)2005-2019 SA-MP Team
 [13:57:33] Number of vehicle models: 0
 [13:57:38] [connection] incoming connection: 127.0.0.1:57818 id: 0
 [13:57:38] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:52:04] 
+[13:52:04] Server Plugins
+[13:52:04] --------------
+[13:52:04]  Loading plugin: mysql
+[13:52:06]  >> plugin.mysql: R41-4 successfully loaded.
+[13:52:06]   Loaded.
+[13:52:06]  Loaded 1 plugins.
+
+[13:52:06] 
+[13:52:06] Filterscripts
+[13:52:06] ---------------
+[13:52:06]   Loaded 0 filterscripts.
+
+[13:52:14] [MySQL]: Подключение к базе данных сервера успешно установлено.
+[13:52:14] 
+----------------------------------
+[13:52:14]  MY PROJECT STARTED
+[13:52:14] ----------------------------------
+
+[13:52:14] Number of vehicle models: 0
+[13:52:35] [connection] incoming connection: 127.0.0.1:50060 id: 0
+[13:52:35] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:03:30] 
+[14:03:30] Server Plugins
+[14:03:30] --------------
+[14:03:30]  Loading plugin: mysql
+[14:03:30]  >> plugin.mysql: R41-4 successfully loaded.
+[14:03:30]   Loaded.
+[14:03:30]  Loaded 1 plugins.
+
+[14:03:30] 
+[14:03:30] Filterscripts
+[14:03:30] ---------------
+[14:03:30]   Loaded 0 filterscripts.
+
+[14:03:38] [MySQL]: Подключение к базе данных сервера успешно установлено.
+[14:03:38] 
+----------------------------------
+[14:03:38]  MY PROJECT STARTED
+[14:03:38] ----------------------------------
+
+[14:03:38] Number of vehicle models: 0
+[14:03:43] [connection] incoming connection: 127.0.0.1:53617 id: 0
+[14:03:43] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+[14:04:13] [part] Vadim_Arhipenko has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:13:40] 
+[14:13:40] Server Plugins
+[14:13:40] --------------
+[14:13:40]  Loading plugin: mysql
+[14:13:40]  >> plugin.mysql: R41-4 successfully loaded.
+[14:13:40]   Loaded.
+[14:13:40]  Loaded 1 plugins.
+
+[14:13:40] 
+[14:13:40] Filterscripts
+[14:13:40] ---------------
+[14:13:40]   Loaded 0 filterscripts.
+
+[14:13:49] [MySQL]: Подключение к базе данных сервера успешно установлено.
+[14:13:49] 
+----------------------------------
+[14:13:49]  MY PROJECT STARTED
+[14:13:49] ----------------------------------
+
+[14:13:49] Number of vehicle models: 0
+[14:14:36] [connection] incoming connection: 127.0.0.1:61922 id: 0
+[14:14:36] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+[14:25:17] [part] Vadim_Arhipenko has left the server (0:1)
