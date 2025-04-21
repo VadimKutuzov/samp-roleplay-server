@@ -1,0 +1,354 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:23:08] 
+[13:23:08] Server Plugins
+[13:23:08] --------------
+[13:23:08]  Loading plugin: mysql
+[13:23:08]  >> plugin.mysql: R41-4 successfully loaded.
+[13:23:08]   Loaded.
+[13:23:08]  Loaded 1 plugins.
+
+[13:23:09] 
+[13:23:09] Filterscripts
+[13:23:09] ---------------
+[13:23:09]   Loaded 0 filterscripts.
+
+[13:23:09] 
+----------------------------------
+[13:23:09]  Blank Gamemode by your name here
+[13:23:09] ----------------------------------
+
+[13:23:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:38:11] 
+[13:38:11] Server Plugins
+[13:38:11] --------------
+[13:38:11]  Loading plugin: mysql
+[13:38:11]  >> plugin.mysql: R41-4 successfully loaded.
+[13:38:11]   Loaded.
+[13:38:11]  Loaded 1 plugins.
+
+[13:38:11] 
+[13:38:11] Filterscripts
+[13:38:11] ---------------
+[13:38:11]   Loaded 0 filterscripts.
+
+[13:38:19] [MYSQL]: РџРѕРґРєР»СЋС‡РµРЅРёРµ Рє Р±Р°Р·Рµ  РґР°РЅРЅС‹С… СѓСЃРїРµС€РЅРѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ.
+[13:38:19] 
+----------------------------------
+[13:38:19]  Blank Gamemode by your name here
+[13:38:19] ----------------------------------
+
+[13:38:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:38:51] 
+[13:38:51] Server Plugins
+[13:38:51] --------------
+[13:38:51]  Loading plugin: mysql
+[13:38:51]  >> plugin.mysql: R41-4 successfully loaded.
+[13:38:51]   Loaded.
+[13:38:51]  Loaded 1 plugins.
+
+[13:38:52] 
+[13:38:52] Filterscripts
+[13:38:52] ---------------
+[13:38:52]   Loaded 0 filterscripts.
+
+[13:39:00] [MYSQL]: РџРѕРґРєР»СЋС‡РµРЅРёРµ Рє Р±Р°Р·Рµ  РґР°РЅРЅС‹С… СѓСЃРїРµС€РЅРѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ.
+[13:39:00] 
+----------------------------------
+[13:39:00]  Blank Gamemode by your name here
+[13:39:00] ----------------------------------
+
+[13:39:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:39:40] 
+[13:39:40] Server Plugins
+[13:39:40] --------------
+[13:39:40]  Loading plugin: mysql
+[13:39:40]  >> plugin.mysql: R41-4 successfully loaded.
+[13:39:40]   Loaded.
+[13:39:40]  Loaded 1 plugins.
+
+[13:39:40] 
+[13:39:40] Filterscripts
+[13:39:40] ---------------
+[13:39:40]   Loaded 0 filterscripts.
+
+[13:39:48] [MYSQL]: РџРѕРґРєР»СЋС‡РµРЅРёРµ Рє Р±Р°Р·Рµ  РґР°РЅРЅС‹С… СѓСЃРїРµС€РЅРѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ.
+[13:39:48] 
+----------------------------------
+[13:39:48]  Blank Gamemode by your name here
+[13:39:48] ----------------------------------
+
+[13:39:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[13:40:03] 
+[13:40:03] Server Plugins
+[13:40:03] --------------
+[13:40:03]  Loading plugin: mysql
+[13:40:04]  >> plugin.mysql: R41-4 successfully loaded.
+[13:40:04]   Loaded.
+[13:40:04]  Loaded 1 plugins.
+
+[13:40:04] 
+[13:40:04] Filterscripts
+[13:40:04] ---------------
+[13:40:04]   Loaded 0 filterscripts.
+
+[13:40:12] [MYSQL]: Подключение к базе  данных успешно установлено.
+[13:40:12] 
+----------------------------------
+[13:40:12]  Blank Gamemode by your name here
+[13:40:12] ----------------------------------
+
+[13:40:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:06:26] 
+[14:06:26] Server Plugins
+[14:06:26] --------------
+[14:06:26]  Loading plugin: mysql
+[14:06:26]  >> plugin.mysql: R41-4 successfully loaded.
+[14:06:26]   Loaded.
+[14:06:26]  Loaded 1 plugins.
+
+[14:06:26] 
+[14:06:26] Filterscripts
+[14:06:26] ---------------
+[14:06:26]   Loaded 0 filterscripts.
+
+[14:06:35] [MYSQL]: Подключение к базе  данных успешно установлено.
+[14:06:35] 
+----------------------------------
+[14:06:35]  Blank Gamemode by your name here
+[14:06:35] ----------------------------------
+
+[14:06:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:08:13] 
+[14:08:13] Server Plugins
+[14:08:13] --------------
+[14:08:13]  Loading plugin: mysql
+[14:08:13]  >> plugin.mysql: R41-4 successfully loaded.
+[14:08:13]   Loaded.
+[14:08:13]  Loaded 1 plugins.
+
+[14:08:13] 
+[14:08:13] Filterscripts
+[14:08:13] ---------------
+[14:08:13]   Loaded 0 filterscripts.
+
+[14:08:21] [MYSQL]: Подключение к базе  данных успешно установлено.
+[14:08:21] 
+----------------------------------
+[14:08:21]  Blank Gamemode by your name here
+[14:08:21] ----------------------------------
+
+[14:08:21] Number of vehicle models: 0
+[14:08:24] [connection] incoming connection: 127.0.0.1:55847 id: 0
+[14:08:25] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:35:06] 
+[14:35:06] Server Plugins
+[14:35:06] --------------
+[14:35:06]  Loading plugin: mysql
+[14:35:07]  >> plugin.mysql: R41-4 successfully loaded.
+[14:35:07]   Loaded.
+[14:35:07]  Loaded 1 plugins.
+
+[14:35:07] 
+[14:35:07] Filterscripts
+[14:35:07] ---------------
+[14:35:07]   Loaded 0 filterscripts.
+
+[14:35:07] [MYSQL]: Подключение к базе данных не было установлено!!!
+[14:35:07] 
+----------------------------------
+[14:35:07]  Blank Gamemode by your name here
+[14:35:07] ----------------------------------
+
+[14:35:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:36:05] 
+[14:36:05] Server Plugins
+[14:36:05] --------------
+[14:36:05]  Loading plugin: mysql
+[14:36:05]  >> plugin.mysql: R41-4 successfully loaded.
+[14:36:05]   Loaded.
+[14:36:05]  Loaded 1 plugins.
+
+[14:36:05] 
+[14:36:05] Filterscripts
+[14:36:05] ---------------
+[14:36:05]   Loaded 0 filterscripts.
+
+[14:36:05] [MYSQL]: Подключение к базе данных не было установлено!!!
+[14:36:05] 
+----------------------------------
+[14:36:05]  Blank Gamemode by your name here
+[14:36:05] ----------------------------------
+
+[14:36:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:36:52] 
+[14:36:52] Server Plugins
+[14:36:52] --------------
+[14:36:52]  Loading plugin: mysql
+[14:36:52]  >> plugin.mysql: R41-4 successfully loaded.
+[14:36:52]   Loaded.
+[14:36:52]  Loaded 1 plugins.
+
+[14:36:52] 
+[14:36:52] Filterscripts
+[14:36:52] ---------------
+[14:36:52]   Loaded 0 filterscripts.
+
+[14:36:52] [MYSQL]: Подключение к базе данных не было установлено!!!
+[14:36:52] 
+----------------------------------
+[14:36:52]  Blank Gamemode by your name here
+[14:36:52] ----------------------------------
+
+[14:36:52] Number of vehicle models: 0
+[14:36:59] [connection] incoming connection: 127.0.0.1:63906 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:37:28] 
+[14:37:28] Server Plugins
+[14:37:28] --------------
+[14:37:28]  Loading plugin: mysql
+[14:37:28]  >> plugin.mysql: R41-4 successfully loaded.
+[14:37:28]   Loaded.
+[14:37:28]  Loaded 1 plugins.
+
+[14:37:28] 
+[14:37:28] Filterscripts
+[14:37:28] ---------------
+[14:37:28]   Loaded 0 filterscripts.
+
+[14:37:31] [connection] incoming connection: 127.0.0.1:57576 id: 0
+[14:37:31] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
+[14:37:36] [MYSQL]: Подключение к базе  данных успешно установлено.
+[14:37:36] 
+----------------------------------
+[14:37:36]  Blank Gamemode by your name here
+[14:37:36] ----------------------------------
+
+[14:37:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[14:37:44] 
+[14:37:44] Server Plugins
+[14:37:44] --------------
+[14:37:44]  Loading plugin: mysql
+[14:37:44]  >> plugin.mysql: R41-4 successfully loaded.
+[14:37:44]   Loaded.
+[14:37:44]  Loaded 1 plugins.
+
+[14:37:44] 
+[14:37:44] Filterscripts
+[14:37:44] ---------------
+[14:37:44]   Loaded 0 filterscripts.
+
+[14:37:52] [MYSQL]: Подключение к базе  данных успешно установлено.
+[14:37:52] 
+----------------------------------
+[14:37:52]  Blank Gamemode by your name here
+[14:37:52] ----------------------------------
+
+[14:37:52] Number of vehicle models: 0
+[14:38:02] [connection] incoming connection: 127.0.0.1:53474 id: 0
+[14:38:03] [join] Vadim_Arhipenko has joined the server (0:127.0.0.1)
